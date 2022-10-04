@@ -26,5 +26,7 @@ npm run start
 
 ### **Preview**
 
-💡 **Heroku:** [Click here!](https://salty-cove-60850.herokuapp.com)
+ ![Application](assets/images/text-editor.png)
+
+💡 **Heroku Live version:**  [click here!](https://salty-cove-60850.herokuapp.com)
 
